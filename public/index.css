@@ -1,0 +1,102 @@
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+} 
+.navbar { 
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden; 
+    text-align:center;
+    display: flex;
+    height: 60px;
+    justify-content: space-between;
+} 
+.navbar a { 
+    display: inline-block;
+    color: white;
+    text-align:center;
+    padding: 14px 20px;
+    text-decoration: none;
+} 
+.navbar a:hover { 
+    background-color: #ddd;
+    color: black;
+} 
+.container {
+    padding: 20px;
+} 
+
+.container_request { 
+    margin-top: 20px;
+} 
+
+.container_request input{
+    width: 200px;
+    height: 40px;
+}
+
+.container_requestr button {
+    height: 40px;
+    width: 50px;
+}
+
+.navbar_profile{
+    display:inline-flex;
+    flex-direction: row;
+    text-align: center; 
+    align-items: center;
+    font-family: Arial, sans-serif;
+    margin-right: 20px;
+}
+
+.navbar_profile p{
+    padding:2px;
+    font-size: 20px;
+    color: white
+}
+
+.photo{
+    background-image:url("user-photo.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 150%;
+    margin-left: 4px;
+}
+
+img{
+    height: 50px;
+}
+
+.navbar_func-links{
+    display: flex;
+    flex-direction: row;
+    text-align: center; 
+    align-items: center;
+}
+.navbar_logo{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar_logo p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 3px;
+}
+
+.login{
+    margin:20px;
+    display:flex;
+    flex-direction:row;
+}
+
+.login>a{
+    margin:10px;
+}

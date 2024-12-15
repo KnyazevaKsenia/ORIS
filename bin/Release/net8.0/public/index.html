@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dayly</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js" defer></script>
+</head>
+<body>
+    <div class="navbar">
+        <a href="#ideas">Ideas</a>
+        <a href="#calendar">Calendar</a>
+        <a href="#today">Today</a>
+        <a href="#myProfile">My Profile</a>
+    </div>
+    <div class="container">
+        <h1>Welcome!</h1>
+        <p>This is simple service to get weather info</p>
+        <p>Введите координаты</p>
+        <div class="api-request-container">
+            <input type="text" id="lat" placeholder="lat">
+            <input type="text" id="lon" placeholder="lon">
+            <button id="button">Get</button>
+        </div>
+    </div>
+    <div class="api-container">
+        <p id="weather-info">Сведения о погоде</p>
+
+    </div>
+</body>
+</html>

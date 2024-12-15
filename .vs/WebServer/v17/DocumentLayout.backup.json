@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\mypasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:mypasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\uservalidationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:uservalidationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\localcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:localcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\weatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:weatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\registration.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:public\\registration.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:public\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\cacheitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:cacheitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:public\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\registration.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:public\\registration.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\registration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:public\\registration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:public\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:public\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|c:\\users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A01A9A51-DCF4-48AF-A404-F7B165A5E88F}|WebServer.csproj|solutionrelative:webserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kn_ks\\AppData\\Local\\SourceServer\\1300fd8e62ca9d8361e3af225b6c388d55290e0883c74c616fab62b051c7f569\\src\\libraries\\System.Net.HttpListener\\src\\System\\Net\\Windows\\HttpListener.Windows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:09:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalCache.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\LocalCache.cs",
+              "RelativeDocumentMoniker": "LocalCache.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\LocalCache.cs",
+              "RelativeToolTip": "LocalCache.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:28:05.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "registration.js",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\registration.js",
+              "RelativeDocumentMoniker": "public\\registration.js",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\registration.js",
+              "RelativeToolTip": "public\\registration.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-14T11:02:17.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\MyPasswordHasher.cs",
+              "RelativeDocumentMoniker": "MyPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\MyPasswordHasher.cs",
+              "RelativeToolTip": "MyPasswordHasher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:26:28.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "UserLoginModel.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\UserLoginModel.cs",
+              "RelativeToolTip": "UserLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:29:55.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAJgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:11:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\DbContext.cs",
+              "RelativeDocumentMoniker": "DbContext.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\DbContext.cs",
+              "RelativeToolTip": "DbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:54:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\WeatherApiClient.cs",
+              "RelativeDocumentMoniker": "WeatherApiClient.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\WeatherApiClient.cs",
+              "RelativeToolTip": "WeatherApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:16:51.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserValidationRules.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\UserValidationRules.cs",
+              "RelativeDocumentMoniker": "UserValidationRules.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\UserValidationRules.cs",
+              "RelativeToolTip": "UserValidationRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:10:31.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\index.js",
+              "RelativeDocumentMoniker": "public\\index.js",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\index.js",
+              "RelativeToolTip": "public\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T15:59:48.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "registration.html",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\registration.html",
+              "RelativeDocumentMoniker": "public\\registration.html",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\registration.html",
+              "RelativeToolTip": "public\\registration.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-14T09:52:26.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\login.js",
+              "RelativeDocumentMoniker": "public\\login.js",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\login.js",
+              "RelativeToolTip": "public\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-14T20:04:51.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CacheItem.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\CacheItem.cs",
+              "RelativeDocumentMoniker": "CacheItem.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\CacheItem.cs",
+              "RelativeToolTip": "CacheItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:48:00.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "registration.css",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\registration.css",
+              "RelativeDocumentMoniker": "public\\registration.css",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\registration.css",
+              "RelativeToolTip": "public\\registration.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-14T09:54:54.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\WeatherInfo.cs",
+              "RelativeDocumentMoniker": "WeatherInfo.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\WeatherInfo.cs",
+              "RelativeToolTip": "WeatherInfo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:34:23.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\login.html",
+              "RelativeDocumentMoniker": "public\\login.html",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\login.html",
+              "RelativeToolTip": "public\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-14T10:03:36.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-11T16:54:39.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\index.css",
+              "RelativeDocumentMoniker": "public\\index.css",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\public\\index.css",
+              "RelativeToolTip": "public\\index.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAIBJwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T18:00:43.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebServer.csproj",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\WebServer.csproj",
+              "RelativeDocumentMoniker": "WebServer.csproj",
+              "ToolTip": "C:\\Users\\kn_ks\\source\\repos\\\u0434\u043E\u043C\u0430\u0448\u043D\u044F\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\WebServer.csproj",
+              "RelativeToolTip": "WebServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T10:54:45.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALcUAAAAAAAAAAAQwMMUAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-14T13:41:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HttpListener.Windows.cs",
+              "DocumentMoniker": "C:\\Users\\kn_ks\\AppData\\Local\\SourceServer\\1300fd8e62ca9d8361e3af225b6c388d55290e0883c74c616fab62b051c7f569\\src\\libraries\\System.Net.HttpListener\\src\\System\\Net\\Windows\\HttpListener.Windows.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\1300fd8e62ca9d8361e3af225b6c388d55290e0883c74c616fab62b051c7f569\\src\\libraries\\System.Net.HttpListener\\src\\System\\Net\\Windows\\HttpListener.Windows.cs",
+              "ToolTip": "C:\\Users\\kn_ks\\AppData\\Local\\SourceServer\\1300fd8e62ca9d8361e3af225b6c388d55290e0883c74c616fab62b051c7f569\\src\\libraries\\System.Net.HttpListener\\src\\System\\Net\\Windows\\HttpListener.Windows.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\1300fd8e62ca9d8361e3af225b6c388d55290e0883c74c616fab62b051c7f569\\src\\libraries\\System.Net.HttpListener\\src\\System\\Net\\Windows\\HttpListener.Windows.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAAwNcBAAAUAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:36:06.332Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

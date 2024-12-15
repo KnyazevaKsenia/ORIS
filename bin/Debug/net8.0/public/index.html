@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dayly</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js" defer></script>
+</head>
+<body>
+    <div class="login">
+        <a href="/registration">
+            <h2>Registration</h2>
+        </a>
+        <a href="/login">
+            <h2>Log in</h2>
+        </a>
+    </div>
+
+    <div class="container">
+        <h1>Welcome!</h1>
+        <p>This is simple service to get weather info</p>
+        <p>Enter the coordinates</p>
+        <div class="container_request">
+            <input type="text" id="lat" placeholder="lat">
+            <input type="text" id="lon" placeholder="lon">
+            <button id="button">Get</button>
+        </div>
+        <div class="container_api-result">
+            <p id="weather-timezone">TimeZone: </p>
+            <p id="weather-temp">Temperature: </p>
+        </div>
+    </div>
+</body>
+</html>
